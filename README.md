@@ -1,4 +1,4 @@
-# fastai-2022p2-notes
+# Fastai 2022 Part 2 Notes
 
 
 
