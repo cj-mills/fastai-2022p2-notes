@@ -5,22 +5,29 @@
 ## Stable Diffusion
 
 
-| Jupyter Notebook                                             | Colab                                                        | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaggle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Text-to-Image](https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-text2img-cfg-rescaling.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-text2img-cfg-rescaling.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-text2img-cfg-rescaling.ipynb) |
-| [Text-to-Image Mix Embeddings](https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-text2img-mix-embeddings.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-text2img-mix-embeddings.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-text2img-mix-embeddings.ipynb) |
-| [Text-to-Image Textual Inversion](https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-text2img-textual-inversion-inference.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-text2img-textual-inversion-inference.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-text2img-textual-inversion-inference.ipynb) |
-| [Image-to-Image](https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-img2img-cfg-rescaling.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-img2img-cfg-rescaling.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-img2img-cfg-rescaling.ipynb) |
-| [In-painting](https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-inpainting-cfg-rescaling.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-inpainting-cfg-rescaling.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-inpainting-cfg-rescaling.ipynb) |
-| [In-painting Specialized Model](https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-inpainting-specialized-model.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-inpainting-specialized-model.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-inpainting-specialized-model.ipynb) |
-| [Out-painting](https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-outpainting-cfg-rescaling.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-outpainting-cfg-rescaling.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-outpainting-cfg-rescaling.ipynb) |
-| [Out-painting Specialized Model](https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-outpainting-specialized-model.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-outpainting-specialized-model.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-outpainting-specialized-model.ipynb) |
+| Jupyter Notebook                                             |
+| ------------------------------------------------------------ |
+| [Text-to-Image](https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/inference-sd-text2img.ipynb) |
+| [Text-to-Image Mix Embeddings](https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/inference-sd-text2img-mix-embeddings.ipynb) |
+| [Text-to-Image Textual Inversion](https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/stable-diffusion-text2img-textual-inversion-inference.ipynb) |
+| [Image-to-Image](https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/inference-sd-img2img-pexels.ipynb) |
+| [Depth-to-Image](https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/inference-sd-depth2img-pexels.ipynb) |
+| [Dreambooth Text-to-Image](https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/dreambooth-sd-text2img.ipynb) |
+| [Dreambooth Depth-to-Image](https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/dreambooth-sd-depth2img.ipynb) |
 
 
 
+## Miniai
+
+| Jupyter Notebook                                             |
+| ------------------------------------------------------------ |
+| [Fast Neural Style Transfer](https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/fast_neural_style-baseline-miniai.ipynb) |
 
 
 
+## Data Augmentation
 
-
+| Jupyter Notebook                                             |
+| ------------------------------------------------------------ |
+| [Pixel Swap](https://github.com/cj-mills/fastai-2022p2-notes/blob/main/notebooks/pixel-swap-experiments.ipynb) |
 
