@@ -1,5 +1,5 @@
 /notebooks/output_dir/*
 /notebooks/dreambooth_checkpoints/*
 /notebooks/finetune_checkpoints/*
-/notebooks/train_dir_/*
+/notebooks/train_dir/*
 /notebooks_/*
