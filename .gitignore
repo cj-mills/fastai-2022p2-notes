@@ -1,1 +1,4 @@
 /notebooks/output_dir/*
+/notebooks/dreambooth_checkpoints/*
+/notebooks/finetune_checkpoints/*
+/notebooks_/*
