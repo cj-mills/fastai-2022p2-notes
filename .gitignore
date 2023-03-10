@@ -1,5 +1,5 @@
 # /.ipynb_checkpoints
-/.ipynb_checkpoints_
+/.ipynb_checkpoints_/*
 /notebooks/output_dir/*
 /notebooks/dreambooth_checkpoints/*
 /notebooks/finetune_checkpoints/*
