@@ -1,4 +1,4 @@
-# /notebooks/.ipynb_checkpoints/*
+/notebooks/.ipynb_checkpoints/*
 # /notebooks/.ipynb_checkpoints_/*
 /notebooks/output_dir/*
 /notebooks/dreambooth_checkpoints/*
