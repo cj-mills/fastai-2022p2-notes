@@ -7,5 +7,7 @@
 /notebooks/course22p2_/*
 /notebooks/hagrid_checkpoints/*
 /notebooks/colorize_checkpoints/*
+/notebooks/superres_checkpoints/*
 /notebooks/wandb/*
+/notebooks/miniai_data_augmentation_seed-*
 README_.md
